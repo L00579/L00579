@@ -1,7 +1,7 @@
 |**Source Code Review Form**||
 | - | - |
 |Train Name||     
-|Application Name||
+|Application Name||  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 |User Story/Jira Card#||
 |Pull Request#||
 |No. of Components||
